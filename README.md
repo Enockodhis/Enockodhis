@@ -5,7 +5,7 @@ research-based reporting and recommendations leading to customer-centric, financ
 uphold high virtue of honesty, confidentiality and teamwork. My dream is to yearn for better tomorrow.
  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Enockodhis&show"/>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis)](https://github.com/Enockodhis/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact)](https://github.com/Enockodhis/github-readme-stats&layout=compact)
 
 🔭 I’m currently working on An Android Application for Home Services.
 🌱 I’m currently learning about Application of Artificial Intelligence and Automation in Software Development.
