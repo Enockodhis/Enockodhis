@@ -7,9 +7,9 @@ uphold high virtue of honesty, confidentiality and teamwork. My dream is to year
  <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Enockodhis&show"/>
  <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
 
-🔭 I’m currently working on An Android Application for Home Services.
+🔭 I’m currently working on Android Application for Home Services.
 
-🌱 I’m currently learning about Application of Artificial Intelligence and Automation in Software Development.
+🌱 I’m learning about Application of Artificial Intelligence and Automation in Software Development.
 
 🚀 My main KPI is to be better than yesterday.
 
