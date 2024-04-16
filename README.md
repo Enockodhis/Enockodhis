@@ -4,8 +4,8 @@ I'm a highly motivated, adaptable and solution oriented data analyst, Software Q
 research-based reporting and recommendations leading to customer-centric, financially impactful and sustainable solutions for clients. I 
 uphold high virtue of honesty, confidentiality and teamwork. My dream is to yearn for better tomorrow.
 
- <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Enockodhis&show"/>
- <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
+ <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Enockodhis&show"/>
+ <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
 
 🔭 I’m currently working on An Android Application for Home Services.
 🌱 I’m currently learning about Application of Artificial Intelligence and Automation in Software Development.
