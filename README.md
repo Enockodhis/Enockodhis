@@ -17,7 +17,7 @@ uphold high virtue of honesty, confidentiality and teamwork. My dream is to year
 
 🎖️ All of my projects are available in https://github.com/Enockodhis
 
-⚡ Fun fact is that I'm proficient in data science programming languages such as Python and R language and furthermore Working knowledge of front-end web development technologies such as HTML, CSS, JavaScript and React.
+⚡ Fun fact is that I'm proficient in data science programming languages such as Python and R language and furthermore, working knowledge of front-end web development technologies such as HTML, CSS, JavaScript and React.
 
 
  
