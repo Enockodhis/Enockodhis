@@ -6,6 +6,8 @@ I'm a data analyst, Software Quality Engineer and fintech engineer. I provide da
  <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
 
 
+
+
 🔭 I’m currently working on Android Application for Home Services.
 
 🌱 I’m learning about Application of Artificial Intelligence and Automation in Software Development.
