@@ -1,6 +1,6 @@
 Hi 👋, I'm Enock Odhiambo Omondi
 
-I'm a data analyst, Software Quality Engineer and fintech engineer. I provide data-driven and research-based reporting and recommendations leading to customer-centric, financially impactful and sustainable solutions for clients.
+I'm a data analyst, Software Quality Assurance Engineer, and fintech specialist who is deeply motivated, flexible, and focused on finding solutions. My approach is centered on data-driven insights and research, which I leverage to deliver reports and recommendations that prioritize customer needs, financial impact, and long-term sustainability for clients. I prioritize honesty, confidentiality, and collaboration in all aspects of my work. My ultimate goal is to contribute to creating a brighter future through continuous improvement and innovation.
 
  <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Enockodhis&show"/>
  <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
