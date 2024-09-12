@@ -4,7 +4,7 @@ I specialize in data analysis, software quality assurance, and fintech, driven b
 
 
  <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Enockodhis&show"/>
- <img alt="top langs" align="left" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
+ <img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
 
 
 
