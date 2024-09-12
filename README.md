@@ -3,8 +3,8 @@ Hi 👋, I'm Enock Odhiambo Omondi
 I specialize in data analysis, software quality assurance, and fintech, driven by a strong motivation, adaptability, and a solution-oriented mindset. I rely on data-driven insights and thorough research to provide reports and suggestions that emphasize customer requirements, financial implications, and the enduring success of clients. Integrity, confidentiality, and teamwork are fundamental values in my work. My aim is to advance towards a better future through ongoing enhancement and creativity. You can explore my personal portfolio website through this link: https://enockodhiambowebsite.netlify.app/
 
 
- <img alt="my stats" align="left" width="90%" src="https://github-readme-stats.vercel.app/api?username=Enockodhis&show"/>
- <img alt="top langs" align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
+ <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Enockodhis&show"/>
+ <img alt="top langs" align="left" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockodhis&layout=compact"/>
 
 
 
